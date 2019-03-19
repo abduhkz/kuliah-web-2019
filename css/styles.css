@@ -86,12 +86,12 @@ body{
   text-align: center;
 }
 .body1 p{
-    font-family: Roboto;
+  font-family: Roboto Condensed;
   width:350px;
   margin-bottom: 80px;
   padding: 50px;
   text-align: center;
-  font-size: 22px;
+  font-size: 19px;
   margin-left: 270px;
 }
 .body2{
