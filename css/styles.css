@@ -10,6 +10,7 @@ body{
   margin: auto;
   width:1000px;
   display: flexbox;
+  font-family: Roboto;
 }
 .button{
   background-color:#65BEC3;
@@ -85,7 +86,7 @@ body{
   text-align: center;
 }
 .body1 p{
-  font-family: Roboto;
+    font-family: Roboto;
   width:350px;
   margin-bottom: 80px;
   padding: 50px;
@@ -118,12 +119,16 @@ body{
   margin-left: -40px;
   color: #65DEBE;
   text-align:center;
+  font-family: Roboto;
+  font-size: 12pt;
 }
 .body3 h3{
   margin-top: -160px;
   margin-left: -450px;
   color: #65DEBE;
   text-align:center;
+  font-size: 12pt;
+  font-family: Roboto;
 }
 .body3{
   background-color: white;
@@ -131,9 +136,9 @@ body{
 .body3 p{
   font-family: Roboto;
   text-align: center;
-  width:360px;
+  width:340px;
 	padding:12px;
-  margin-left: 300px;
+  margin-left: 200px;
   margin-right: 200px;
   margin-bottom: 60px;
  }
@@ -149,10 +154,9 @@ body{
   color: black;
 }
 hr{
-   border:5px dotted #65BEBE;
-   width:40px;
-   padding: 0px;
-   border-color: #E9F5F5;
+   border:5px dotted #2A80B9;
+   width:45px;
+   padding: 1px;
 }
 .footer-link{
   font-family: Roboto Condensed;
