@@ -1,16 +1,7 @@
-@font-face {
-	font-family: "Roboto";
-	src: url(font/Roboto-Regular.ttf)
-}
-@font-face {
-	font-family: "Roboto Condensed";
-	src: url(font/RobotoCondensed-Regular.ttf)
-}
 body{
   margin: auto;
   width:1000px;
   display: flexbox;
-  font-family: Roboto;
 }
 .button{
   background-color:#65BEC3;
@@ -54,13 +45,13 @@ body{
   text-align: center;
 }
 .header h1{
-  font-family: Roboto;
+  font-family: 'Sacramento', cursive;
   font-size: 30pt;
   color: #65BEBE;
   text-align: center;
 }
 .header h2{
-  font-family: Roboto Condensed;
+  font-family: 'Montserrat', sans-serif;
   font-size: 20pt;
   color: #65DEBE;
   text-align: center;
@@ -80,13 +71,13 @@ body{
 .body1 h2{
   display: flow-root;
   color: #65BEBE;
-  font-family: Roboto;
+  font-family: 'Montserrat', sans-serif;
   font-size: 26pt;
   background-color: white;
   text-align: center;
 }
 .body1 p{
-  font-family: Roboto Condensed;
+  font-family: 'Merriweather', serif;
   width:350px;
   margin-bottom: 80px;
   padding: 50px;
@@ -100,13 +91,13 @@ body{
 }
 .body2 h2{
   color: #65BEBE;
-  font-family: Roboto;
+  font-family: 'Montserrat', sans-serif;
   font-size: 26pt;
   background-color: white;
   text-align: center;
 }
 .body2 p{
-  font-family: Roboto;
+  font-family: 'Merriweather', serif;
   text-align: center;
   width:350px;
 	padding:12px;
@@ -128,13 +119,13 @@ body{
   color: #65DEBE;
   text-align:center;
   font-size: 12pt;
-  font-family: Roboto;
+  font-family: 'Montserrat', sans-serif;
 }
 .body3{
   background-color: white;
 }
 .body3 p{
-  font-family: Roboto;
+  font-family: 'Merriweather', serif;
   text-align: center;
   width:340px;
 	padding:12px;
