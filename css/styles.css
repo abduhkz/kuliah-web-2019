@@ -159,6 +159,9 @@ hr{
   color:#219b9c;
   text-align: center;
 }
+.footer-link:hover{
+  color: white;
+}
 .copyright{
   font-family: Roboto Condensed;
   text-align: center;
