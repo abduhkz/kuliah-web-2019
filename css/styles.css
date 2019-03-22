@@ -20,7 +20,7 @@ body{
 .cloud1{
   padding: 20px;
   display: flow-root;
-  margin-left: 700px;
+  margin-left: 900px;
 }
 .cloud2{
   display: flow-root;
@@ -30,7 +30,6 @@ body{
 .mountain{
   display: inline;
   padding: auto;
-  left: 50%;
 }
 .devicon{
   display: flow-root;
@@ -48,14 +47,17 @@ body{
   text-align: center;
   font-size: 20px;
   padding-top: 40px;
+  margin: 0px;
 }
 #header h1{
   font-family: 'Sacramento', cursive;
   font-size: 40pt;
   color: #65BEBE;
+  margin: 0px;
   text-align: center;
 }
 #header h2{
+  margin: 0px;
   font-family: 'Montserrat', sans-serif;
   font-size: 20pt;
   color: #65DEBE;
@@ -97,7 +99,7 @@ body{
 }
 #body2 p{
   font-family: 'Merriweather', serif;
-  text-align: left;
+  text-align: justify;
   width:35%;
 	padding:12px;
   margin-left: 450px;
@@ -106,15 +108,14 @@ body{
 }
 #body2 h3{
   margin-top: -160px;
-  margin-left:-5px;
+  margin-left: -85px;
   color: #65DEBE;
-  text-align:center;
   font-family: 'Merriweather', serif;
   font-size: 12pt;
 }
 #body3 h3{
   margin-top: -160px;
-  margin-left: -450px;
+  margin-left: -520px;
   color: #65DEBE;
   text-align:center;
   font-size: 12pt;
@@ -125,7 +126,7 @@ body{
 }
 #body3 p{
   font-family: 'Merriweather', serif;
-  text-align: left;
+  text-align: justify;
   width:340px;
 	padding:12px;
   margin-left: 282px;
