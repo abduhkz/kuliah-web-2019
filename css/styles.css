@@ -1,6 +1,6 @@
 body{
   margin: auto;
-  width: 85%;
+  width: 90%;
   text-align: center;
 }
 #button{
@@ -20,7 +20,7 @@ body{
 .cloud1{
   padding: 20px;
   display: flow-root;
-  margin-left: 700px;  
+  margin-left: 700px;
 }
 .cloud2{
   display: flow-root;
@@ -106,7 +106,7 @@ body{
 }
 #body2 h3{
   margin-top: -160px;
-  margin-left:-5px; 
+  margin-left:-5px;
   color: #65DEBE;
   text-align:center;
   font-family: 'Merriweather', serif;
