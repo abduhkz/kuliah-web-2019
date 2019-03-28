@@ -1,6 +1,7 @@
 body{
   margin: auto;
-  width: 90%;
+  min-width: 90%;
+  max-width: 90%;
   text-align: center;
 }
 #button{
@@ -20,11 +21,11 @@ body{
 .cloud1{
   padding: 20px;
   display: flow-root;
-  margin-left: 900px;
+  margin-left: 75%;
 }
 .cloud2{
   display: flow-root;
-  margin-left: 100px;
+  margin-left: 10%;
   padding: 20px;
 }
 .mountain{
@@ -37,7 +38,7 @@ body{
   width: 170px;
 }
 .chili{
-  display: flow-root;
+  display: -webkit-flex;
   margin-left: 700px;
   margin-top: 50px;
   width: 170px;
@@ -51,7 +52,7 @@ body{
 }
 #header h1{
   font-family: 'Sacramento', cursive;
-  font-size: 40pt;
+  font-size: 50pt;
   color: #65BEBE;
   margin: 0px;
   text-align: center;
@@ -74,41 +75,47 @@ body{
   display: flow-root;
   color: #65BEBE;
   font-family: 'Montserrat', sans-serif;
-  font-size: 26pt;
+  font-size: 30pt;
   background-color: white;
   text-align: center;
 }
 #body1 p{
   font-family: 'Merriweather', serif;
-  width:30%;
-  margin:auto;
-  padding: 10px;
   text-align: center;
+  min-width: 30%;
+  max-width: 30%;
+  margin:auto;
+  margin-bottom: 30px;
+  padding: 10px;
   font-size: 16px;
+  line-height: 20px;
 }
 #body2{
   margin-top: 90px;
   background-color: white;
+  text-align: center;
 }
 #body2 h2{
   color: #65BEBE;
   font-family: 'Montserrat', sans-serif;
-  font-size: 26pt;
+  font-size: 30pt;
   background-color: white;
   text-align: center;
 }
 #body2 p{
   font-family: 'Merriweather', serif;
   text-align: justify;
+  text-align-last: center;
   width:35%;
 	padding:12px;
-  margin-left: 450px;
+  margin-left: 465px;
   margin-right: 200px;
   margin-bottom: 60px;
+  line-height: 20px;
 }
 #body2 h3{
   margin-top: -160px;
-  margin-left: -85px;
+  margin-left: -60px;
   color: #65DEBE;
   font-family: 'Merriweather', serif;
   font-size: 12pt;
@@ -154,10 +161,12 @@ body{
 }
 hr{
   border: 0px;
-  line-height:3px;
+  line-height:15px;
   margin-left: 540px;
   margin-right: 540px;
-  border-top:7px dotted whitesmoke;
+  border-top:15px dotted whitesmoke;
+  min-width: 10%;
+  max-width: 10%;
 }
 .footer-link{
 
